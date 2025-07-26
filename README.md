@@ -62,8 +62,4 @@ The dataset used in this project includes Sales Person,Product data.
   - "Region Y had the highest sales growth."
   - "Salesperson Z consistently exceeded targets."
 
-## License
-This project is provided for educational purposes only. Data and visualizations should not be used for commercial purposes.
-
-## Contact
-For questions or collaboration opportunities, reach out at keruthiksuresh@example.com.
+## Dashboard<img width="1366" height="768" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/e3760e0d-3623-4aad-81df-0975cb45b79e" />
